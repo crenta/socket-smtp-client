@@ -77,4 +77,6 @@ This is an educational project. In production environments, use established libr
 
 ## License
 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
 This project is available for educational purposes.
